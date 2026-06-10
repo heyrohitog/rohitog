@@ -28,18 +28,3 @@ Embracing **改善** *(kaizen)* - continuous improvement in code and craft.
 **Contact:** [rohitog.dev@gmail.com](mailto:rohitog.dev@gmail.com)
 
 ---
-
-## Stack
-
-**Languages:** JavaScript • TypeScript • Python • PHP  
-
-**Frontend:** React • Next.js • HTML • CSS  
-
-**Backend:** Node.js • Express • Laravel • Django  
-
-**Databases:** MySQL • PostgreSQL • Redis  
-
-**Tools & Platforms:** Git • GitHub • Docker • Linux • Azure • Postman • VS Code   
-
-
----
